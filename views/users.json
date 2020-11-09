@@ -1,0 +1,26 @@
+[{
+        "name": 'Nicc',
+        "age": 20,
+        "location": "Nairobi"
+    },
+    {
+        "name": 'Leth',
+        "age": 30,
+        "location": "Westgate"
+    },
+    {
+        "name": 'Koll',
+        "age": 34,
+        "location": "B-Center"
+    },
+    {
+        "name": 'Geri',
+        "age": 40,
+        "location": "Mails"
+    },
+    {
+        "name": 'Bonic',
+        "age": 50,
+        "location": "Myeth"
+    }
+]
